@@ -1,0 +1,18 @@
+#1.安装软件
+$ sudo apt install softname
+
+#2.卸载软件
+$ sudo apt remove softname
+
+#3.更新可用软件包列表
+$ sudo apt update
+
+#4.更新已安装的包
+$ sudo apt upgrade
+
+#5.软件列表
+$ sudo apt ipython
+
+#6.deb安装格式
+$ sudo dpkg -i <package.deb> 
+
